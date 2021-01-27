@@ -1,4 +1,4 @@
-class Handbrakeclibeta < Formula
+class HandbrakecliBeta < Formula
   desc "HandBrake CLI Beta"
   homepage "https://handbrake.fr/downloads2.php"
   version "1.4.0-beta.1"
